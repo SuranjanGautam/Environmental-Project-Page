@@ -3,7 +3,7 @@
 **Authors:** Suranjan Gautam and Alexander Lain
 
 <div align="center">
-    <a href="https://suranjan-gautam.github.io/Environmental-Project-Page/">
+    <a href="https://suranjangautam.github.io/Environmental-Project-Page/">
         <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=githubpages" alt="Live Demo">
     </a>
 </div>
